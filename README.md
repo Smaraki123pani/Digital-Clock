@@ -32,11 +32,11 @@ A simple and elegant **Digital Clock Application** built using **HTML, CSS, and 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Smaraki123pani/Digital-Clock.git
+   git clone https://github.com/Smaraki123pani/Digital-Clock-.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Digital-Clock
+   cd Digital-Clock-
    ```
 3. Open `index.html` in your browser.
 
