@@ -13,7 +13,7 @@ A simple and elegant **Digital Clock Application** built using **HTML, CSS, and 
 - **CSS3** - Styling for an appealing UI
 - **JavaScript (ES6+)** - Functionality and real-time updates
 
-## 📸 Screenshots
+## 📸 Preview
 
 ![Screenshot-Digital-Clock](https://github.com/user-attachments/assets/395ed11f-de33-48fc-b78d-a5b1d096b044)
 
