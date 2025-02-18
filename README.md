@@ -1,6 +1,7 @@
 # Digital Clock Application
 
-A simple and elegant **Digital Clock Application** built using **HTML, CSS, and JavaScript**. This project displays the current time dynamically and updates every second.
+A simple and elegant **Digital Clock Application** built using **HTML, CSS, and JavaScript**. 
+This project displays the current time dynamically and updates every second.
 
 ## 🚀 Features
 
