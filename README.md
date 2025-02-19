@@ -22,7 +22,7 @@ This project displays the current time dynamically and updates every second.
 ## 📂 Project Structure
 
 ```
-📁 digital-clock-app/
+📁 Digital-Clock-/
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # CSS file for styling
  ├── 📄 script.js        # JavaScript file for logic
